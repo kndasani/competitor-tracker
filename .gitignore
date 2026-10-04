@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Local snapshot storage and reports
+snapshots/
+reports/
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
